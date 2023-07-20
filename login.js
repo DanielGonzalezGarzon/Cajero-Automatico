@@ -4,6 +4,7 @@ const usuarios = [
     {"nombre": "Zoila Vaca", "correo":"vacadegar@algunsitio.com", "pasword":"1234", "monto": 2000000},
     {"nombre": "AlanBrito", "correo":"britodelgado@algunlugar.com", "pasword":"1234", "monto": 800000}
 ]
+/* Construyendo las funciones de ingreso y validacion de las funciones */
 
 const login = ()=>{ 
     let correo = document.getElementById("correo").value;
