@@ -1,0 +1,32 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('img/1.jpg');
+    opacity: 0,1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 18rem;
+}
+
+
+.form-Ingreso{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    
+}
