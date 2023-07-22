@@ -6,6 +6,8 @@ const usuarios = [
 ]
 /* Construyendo las funciones de ingreso y validacion de las funciones */
 
+/* Funciones en prueba, no ingresa ni muestra el modal de error... trabajando */
+
 function login(){ 
     let correo = document.getElementById("correo").value;
     let pasword = document.getElementById("pasword").value;
